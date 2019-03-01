@@ -5,7 +5,7 @@ Deep Convolutional Generative Adversarial Networks
 ## Description
 This repository contains tools for illustration generation by deep learning.
 
-## Requrement
+## Requirement
  - python2.7+
  - chainer
 
@@ -15,6 +15,6 @@ This repository contains tools for illustration generation by deep learning.
   
 ## Usage
     
-## Auther
+## Author
 
 ykammikawa
